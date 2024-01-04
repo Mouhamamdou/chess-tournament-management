@@ -1,0 +1,11 @@
+.git/
+.idea/
+env/
+venv/
+data/
+Étapes+Clés_Développez+un+programme+logiciel+en+Python_FR.pdf
+introduction.docx
+README.txt
+Spécification+technique_Développez+un+programme+logiciel+en+Python.pdf
+test.py
+.flake8

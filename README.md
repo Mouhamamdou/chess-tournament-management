@@ -57,6 +57,19 @@ in the project directory:
 - MenuManager: Provides a user interface for interacting with the system.
 - TournamentView: Displays tournament-related information and prompts.
 
+## Code Quality and Testing
+# Generating a Flake8 Report in HTML Format
+
+To maintain high code quality, we use flake8 for linting and checking for coding standards. You can generate a flake8 report by following these steps:
+1. Install Flake8 and flake8-html (if not already installed):
+   ```bash
+pip install flake8 flake8-html
+3. Generate the HTML Report:
+    ```bash
+flake8 --format=html --htmldir=flake-report
+3.Access the Report:
+After running the command, you'll find the HTML report in the flake8-report directory. Open the index.html file in a web browser to view the report.
+
 ## Contributing
 
 Contributions to the Chess Tournament Management System are welcome. 

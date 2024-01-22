@@ -58,7 +58,7 @@ in the project directory:
 - TournamentView: Displays tournament-related information and prompts.
 
 ## Code Quality and Testing
-# Generating a Flake8 Report in HTML Format
+### Generating a Flake8 Report in HTML Format
 
 To maintain high code quality, we use flake8 for linting and checking for coding standards. You can generate a flake8 report by following these steps:
 1. Install Flake8 and flake8-html (if not already installed):

@@ -67,7 +67,7 @@ To maintain high code quality, we use flake8 for linting and checking for coding
 3. Generate the HTML Report:
     ```bash
      flake8 --format=html --htmldir=flake-report
-3.Access the Report:
+3. Access the report:
 After running the command, you'll find the HTML report in the flake8-report directory. Open the index.html file in a web browser to view the report.
 
 ## Contributing
